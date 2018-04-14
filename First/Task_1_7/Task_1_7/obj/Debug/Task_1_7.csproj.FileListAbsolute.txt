@@ -1,0 +1,7 @@
+E:\ISD\Task_1_7\Task_1_7\bin\Debug\Task_1_7.exe.config
+E:\ISD\Task_1_7\Task_1_7\bin\Debug\Task_1_7.exe
+E:\ISD\Task_1_7\Task_1_7\bin\Debug\Task_1_7.pdb
+E:\ISD\Task_1_7\Task_1_7\obj\Debug\Task_1_7.csprojResolveAssemblyReference.cache
+E:\ISD\Task_1_7\Task_1_7\obj\Debug\Task_1_7.csproj.CoreCompileInputs.cache
+E:\ISD\Task_1_7\Task_1_7\obj\Debug\Task_1_7.exe
+E:\ISD\Task_1_7\Task_1_7\obj\Debug\Task_1_7.pdb

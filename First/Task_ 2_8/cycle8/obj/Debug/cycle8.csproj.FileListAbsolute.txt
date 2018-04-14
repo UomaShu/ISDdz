@@ -1,0 +1,7 @@
+E:\ISD\cycle8\cycle8\bin\Debug\cycle8.exe.config
+E:\ISD\cycle8\cycle8\bin\Debug\cycle8.exe
+E:\ISD\cycle8\cycle8\bin\Debug\cycle8.pdb
+E:\ISD\cycle8\cycle8\obj\Debug\cycle8.csprojResolveAssemblyReference.cache
+E:\ISD\cycle8\cycle8\obj\Debug\cycle8.csproj.CoreCompileInputs.cache
+E:\ISD\cycle8\cycle8\obj\Debug\cycle8.exe
+E:\ISD\cycle8\cycle8\obj\Debug\cycle8.pdb

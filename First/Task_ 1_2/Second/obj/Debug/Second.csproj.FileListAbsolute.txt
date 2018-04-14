@@ -1,0 +1,7 @@
+E:\ISD\Second\Second\bin\Debug\Second.exe.config
+E:\ISD\Second\Second\bin\Debug\Second.exe
+E:\ISD\Second\Second\bin\Debug\Second.pdb
+E:\ISD\Second\Second\obj\Debug\Second.csprojResolveAssemblyReference.cache
+E:\ISD\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+E:\ISD\Second\Second\obj\Debug\Second.exe
+E:\ISD\Second\Second\obj\Debug\Second.pdb

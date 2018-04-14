@@ -1,0 +1,6 @@
+E:\ISD\Cycle1\Cycle1\bin\Debug\Cycle1.exe.config
+E:\ISD\Cycle1\Cycle1\bin\Debug\Cycle1.exe
+E:\ISD\Cycle1\Cycle1\bin\Debug\Cycle1.pdb
+E:\ISD\Cycle1\Cycle1\obj\Debug\Cycle1.csproj.CoreCompileInputs.cache
+E:\ISD\Cycle1\Cycle1\obj\Debug\Cycle1.exe
+E:\ISD\Cycle1\Cycle1\obj\Debug\Cycle1.pdb

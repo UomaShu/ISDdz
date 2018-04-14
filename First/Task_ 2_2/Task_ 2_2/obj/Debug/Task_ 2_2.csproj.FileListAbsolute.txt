@@ -1,0 +1,5 @@
+E:\ISD_homework\Task_ 2_2\Task_ 2_2\bin\Debug\Task_ 2_2.exe.config
+E:\ISD_homework\Task_ 2_2\Task_ 2_2\bin\Debug\Task_ 2_2.exe
+E:\ISD_homework\Task_ 2_2\Task_ 2_2\bin\Debug\Task_ 2_2.pdb
+E:\ISD_homework\Task_ 2_2\Task_ 2_2\obj\Debug\Task_ 2_2.exe
+E:\ISD_homework\Task_ 2_2\Task_ 2_2\obj\Debug\Task_ 2_2.pdb

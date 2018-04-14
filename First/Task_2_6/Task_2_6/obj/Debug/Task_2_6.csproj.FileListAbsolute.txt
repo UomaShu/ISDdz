@@ -1,0 +1,6 @@
+E:\ISD_homework\Task_2_6\Task_2_6\bin\Debug\Task_2_6.exe.config
+E:\ISD_homework\Task_2_6\Task_2_6\bin\Debug\Task_2_6.exe
+E:\ISD_homework\Task_2_6\Task_2_6\bin\Debug\Task_2_6.pdb
+E:\ISD_homework\Task_2_6\Task_2_6\obj\Debug\Task_2_6.csprojResolveAssemblyReference.cache
+E:\ISD_homework\Task_2_6\Task_2_6\obj\Debug\Task_2_6.exe
+E:\ISD_homework\Task_2_6\Task_2_6\obj\Debug\Task_2_6.pdb

@@ -1,0 +1,6 @@
+E:\ISD_homework\Task_1_9\Task_1_9\bin\Debug\Task_1_9.exe.config
+E:\ISD_homework\Task_1_9\Task_1_9\bin\Debug\Task_1_9.exe
+E:\ISD_homework\Task_1_9\Task_1_9\bin\Debug\Task_1_9.pdb
+E:\ISD_homework\Task_1_9\Task_1_9\obj\Debug\Task_1_9.csprojResolveAssemblyReference.cache
+E:\ISD_homework\Task_1_9\Task_1_9\obj\Debug\Task_1_9.exe
+E:\ISD_homework\Task_1_9\Task_1_9\obj\Debug\Task_1_9.pdb
