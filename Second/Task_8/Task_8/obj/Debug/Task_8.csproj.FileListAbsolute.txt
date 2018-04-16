@@ -1,0 +1,6 @@
+E:\classes\Task_8\Task_8\bin\Debug\Task_8.exe.config
+E:\classes\Task_8\Task_8\bin\Debug\Task_8.exe
+E:\classes\Task_8\Task_8\bin\Debug\Task_8.pdb
+E:\classes\Task_8\Task_8\obj\Debug\Task_8.csprojResolveAssemblyReference.cache
+E:\classes\Task_8\Task_8\obj\Debug\Task_8.exe
+E:\classes\Task_8\Task_8\obj\Debug\Task_8.pdb

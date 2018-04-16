@@ -1,0 +1,7 @@
+E:\ISD\Second\Task_4\Task_4\bin\Debug\Task_4.exe.config
+E:\ISD\Second\Task_4\Task_4\bin\Debug\Task_4.exe
+E:\ISD\Second\Task_4\Task_4\bin\Debug\Task_4.pdb
+E:\ISD\Second\Task_4\Task_4\obj\Debug\Task_4.csprojResolveAssemblyReference.cache
+E:\ISD\Second\Task_4\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+E:\ISD\Second\Task_4\Task_4\obj\Debug\Task_4.exe
+E:\ISD\Second\Task_4\Task_4\obj\Debug\Task_4.pdb
