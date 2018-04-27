@@ -1,0 +1,6 @@
+E:\struct\Task_6\Task_6\bin\Debug\Task_6.exe.config
+E:\struct\Task_6\Task_6\bin\Debug\Task_6.exe
+E:\struct\Task_6\Task_6\bin\Debug\Task_6.pdb
+E:\struct\Task_6\Task_6\obj\Debug\Task_6.csprojResolveAssemblyReference.cache
+E:\struct\Task_6\Task_6\obj\Debug\Task_6.exe
+E:\struct\Task_6\Task_6\obj\Debug\Task_6.pdb
