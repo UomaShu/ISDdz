@@ -1,0 +1,7 @@
+E:\маткад\ISD_homework1\Delegate\delegate_task_1\delegate_task_1\bin\Debug\delegate_task_1.exe.config
+E:\маткад\ISD_homework1\Delegate\delegate_task_1\delegate_task_1\bin\Debug\delegate_task_1.exe
+E:\маткад\ISD_homework1\Delegate\delegate_task_1\delegate_task_1\bin\Debug\delegate_task_1.pdb
+E:\маткад\ISD_homework1\Delegate\delegate_task_1\delegate_task_1\obj\Debug\delegate_task_1.csprojResolveAssemblyReference.cache
+E:\маткад\ISD_homework1\Delegate\delegate_task_1\delegate_task_1\obj\Debug\delegate_task_1.csproj.CoreCompileInputs.cache
+E:\маткад\ISD_homework1\Delegate\delegate_task_1\delegate_task_1\obj\Debug\delegate_task_1.exe
+E:\маткад\ISD_homework1\Delegate\delegate_task_1\delegate_task_1\obj\Debug\delegate_task_1.pdb
