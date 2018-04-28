@@ -1,0 +1,13 @@
+E:\delegats\Task_2\Task_2\bin\Debug\Task_2.exe.config
+E:\delegats\Task_2\Task_2\bin\Debug\Task_2.exe
+E:\delegats\Task_2\Task_2\bin\Debug\Task_2.pdb
+E:\delegats\Task_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+E:\delegats\Task_2\Task_2\obj\Debug\Task_2.exe
+E:\delegats\Task_2\Task_2\obj\Debug\Task_2.pdb
+D:\Games\isd\delegats\Task_2\Task_2\bin\Debug\Task_2.exe.config
+D:\Games\isd\delegats\Task_2\Task_2\bin\Debug\Task_2.exe
+D:\Games\isd\delegats\Task_2\Task_2\bin\Debug\Task_2.pdb
+D:\Games\isd\delegats\Task_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+D:\Games\isd\delegats\Task_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\Games\isd\delegats\Task_2\Task_2\obj\Debug\Task_2.exe
+D:\Games\isd\delegats\Task_2\Task_2\obj\Debug\Task_2.pdb
