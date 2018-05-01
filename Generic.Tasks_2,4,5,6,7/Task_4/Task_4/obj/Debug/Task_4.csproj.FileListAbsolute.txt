@@ -1,0 +1,13 @@
+D:\c#\Generic\Task_4\Task_4\bin\Debug\Task_4.exe.config
+D:\c#\Generic\Task_4\Task_4\bin\Debug\Task_4.exe
+D:\c#\Generic\Task_4\Task_4\bin\Debug\Task_4.pdb
+D:\c#\Generic\Task_4\Task_4\obj\Debug\Task_4.csprojResolveAssemblyReference.cache
+D:\c#\Generic\Task_4\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+D:\c#\Generic\Task_4\Task_4\obj\Debug\Task_4.exe
+D:\c#\Generic\Task_4\Task_4\obj\Debug\Task_4.pdb
+E:\ISD\Generic\Task_4\Task_4\bin\Debug\Task_4.exe.config
+E:\ISD\Generic\Task_4\Task_4\obj\Debug\Task_4.exe
+E:\ISD\Generic\Task_4\Task_4\obj\Debug\Task_4.pdb
+E:\ISD\Generic\Task_4\Task_4\bin\Debug\Task_4.exe
+E:\ISD\Generic\Task_4\Task_4\bin\Debug\Task_4.pdb
+E:\ISD\Generic\Task_4\Task_4\obj\Debug\Task_4.csprojResolveAssemblyReference.cache

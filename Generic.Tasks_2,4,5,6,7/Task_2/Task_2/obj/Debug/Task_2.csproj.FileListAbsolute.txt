@@ -1,0 +1,6 @@
+E:\generic\Task_2\Task_2\bin\Debug\Task_2.exe.config
+E:\generic\Task_2\Task_2\bin\Debug\Task_2.exe
+E:\generic\Task_2\Task_2\bin\Debug\Task_2.pdb
+E:\generic\Task_2\Task_2\obj\Debug\Task_2.exe
+E:\generic\Task_2\Task_2\obj\Debug\Task_2.pdb
+E:\generic\Task_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
