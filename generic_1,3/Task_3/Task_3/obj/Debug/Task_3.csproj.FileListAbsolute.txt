@@ -1,0 +1,7 @@
+E:\маткад\ISD_homework1\generic\Task_3\Task_3\bin\Debug\Task_3.exe.config
+E:\маткад\ISD_homework1\generic\Task_3\Task_3\bin\Debug\Task_3.exe
+E:\маткад\ISD_homework1\generic\Task_3\Task_3\bin\Debug\Task_3.pdb
+E:\маткад\ISD_homework1\generic\Task_3\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+E:\маткад\ISD_homework1\generic\Task_3\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+E:\маткад\ISD_homework1\generic\Task_3\Task_3\obj\Debug\Task_3.exe
+E:\маткад\ISD_homework1\generic\Task_3\Task_3\obj\Debug\Task_3.pdb
