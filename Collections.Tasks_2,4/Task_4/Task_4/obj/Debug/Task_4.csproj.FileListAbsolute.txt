@@ -1,0 +1,14 @@
+D:\С#\Collections\Task_4\Task_4\bin\Debug\Task_4.exe.config
+D:\С#\Collections\Task_4\Task_4\bin\Debug\Task_4.exe
+D:\С#\Collections\Task_4\Task_4\bin\Debug\Task_4.pdb
+D:\С#\Collections\Task_4\Task_4\obj\Debug\Task_4.csprojResolveAssemblyReference.cache
+D:\С#\Collections\Task_4\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+D:\С#\Collections\Task_4\Task_4\obj\Debug\Task_4.exe
+D:\С#\Collections\Task_4\Task_4\obj\Debug\Task_4.pdb
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_4\Task_4\bin\Debug\Task_4.exe.config
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_4\Task_4\bin\Debug\Task_4.exe
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_4\Task_4\bin\Debug\Task_4.pdb
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_4\Task_4\obj\Debug\Task_4.csprojResolveAssemblyReference.cache
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_4\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_4\Task_4\obj\Debug\Task_4.exe
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_4\Task_4\obj\Debug\Task_4.pdb

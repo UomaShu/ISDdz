@@ -1,0 +1,14 @@
+D:\С#\Collections\Task_2\Task_2\bin\Debug\Task_2.exe.config
+D:\С#\Collections\Task_2\Task_2\bin\Debug\Task_2.exe
+D:\С#\Collections\Task_2\Task_2\bin\Debug\Task_2.pdb
+D:\С#\Collections\Task_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+D:\С#\Collections\Task_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\С#\Collections\Task_2\Task_2\obj\Debug\Task_2.exe
+D:\С#\Collections\Task_2\Task_2\obj\Debug\Task_2.pdb
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_2\Task_2\bin\Debug\Task_2.exe.config
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_2\Task_2\bin\Debug\Task_2.exe
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_2\Task_2\bin\Debug\Task_2.pdb
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_2\Task_2\obj\Debug\Task_2.exe
+D:\С#\Collections\ISDdz\Collections.Tasks_2,4\Task_2\Task_2\obj\Debug\Task_2.pdb
