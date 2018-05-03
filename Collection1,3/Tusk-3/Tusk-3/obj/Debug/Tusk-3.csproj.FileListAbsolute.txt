@@ -1,0 +1,14 @@
+D:\Tusk-3\Tusk-3\bin\Debug\Tusk-3.exe.config
+D:\Tusk-3\Tusk-3\bin\Debug\Tusk-3.exe
+D:\Tusk-3\Tusk-3\bin\Debug\Tusk-3.pdb
+D:\Tusk-3\Tusk-3\obj\Debug\Tusk-3.csprojResolveAssemblyReference.cache
+D:\Tusk-3\Tusk-3\obj\Debug\Tusk-3.csproj.CoreCompileInputs.cache
+D:\Tusk-3\Tusk-3\obj\Debug\Tusk-3.exe
+D:\Tusk-3\Tusk-3\obj\Debug\Tusk-3.pdb
+E:\маткад\ISD_homework1\Collection1,3\Tusk-3\Tusk-3\bin\Debug\Tusk-3.exe.config
+E:\маткад\ISD_homework1\Collection1,3\Tusk-3\Tusk-3\bin\Debug\Tusk-3.exe
+E:\маткад\ISD_homework1\Collection1,3\Tusk-3\Tusk-3\bin\Debug\Tusk-3.pdb
+E:\маткад\ISD_homework1\Collection1,3\Tusk-3\Tusk-3\obj\Debug\Tusk-3.csprojResolveAssemblyReference.cache
+E:\маткад\ISD_homework1\Collection1,3\Tusk-3\Tusk-3\obj\Debug\Tusk-3.csproj.CoreCompileInputs.cache
+E:\маткад\ISD_homework1\Collection1,3\Tusk-3\Tusk-3\obj\Debug\Tusk-3.exe
+E:\маткад\ISD_homework1\Collection1,3\Tusk-3\Tusk-3\obj\Debug\Tusk-3.pdb
