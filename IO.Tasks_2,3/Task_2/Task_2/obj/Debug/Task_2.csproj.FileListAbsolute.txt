@@ -1,0 +1,9 @@
+E:\IO\Task_2\Task_2\bin\Debug\Task_2.exe.config
+E:\IO\Task_2\Task_2\bin\Debug\Task_2.exe
+E:\IO\Task_2\Task_2\bin\Debug\Task_2.pdb
+E:\IO\Task_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+E:\IO\Task_2\Task_2\obj\Debug\Task_2.exe
+E:\IO\Task_2\Task_2\obj\Debug\Task_2.pdb
+E:\IO.Tasks_2,3\Task_2\Task_2\bin\Debug\Task_2.exe.config
+E:\IO.Tasks_2,3\Task_2\Task_2\obj\Debug\Task_2.exe
+E:\IO.Tasks_2,3\Task_2\Task_2\obj\Debug\Task_2.pdb
